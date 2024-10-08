@@ -8,3 +8,5 @@ I already had a Python presentation planned to showcase my current learnings wit
 Please let me know if you have any suggestions on how to make this code cleaner or more concise!
 
 (Please Note: I have so many commented lines of code as I chose to do a code walkthrough during the presentation)
+
+![Delta-V](https://github.com/btocks/Delta-V/blob/main/Delta-V.png?raw=true)
